@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukaas-jopcik&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukáš_Jopčík-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lukáš-jopčík-087064223)
