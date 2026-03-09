@@ -13,4 +13,4 @@ I believe the best PMs in the next 5 years
 will be the ones who understand AI deeply — not just use it.
 
 ## Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukáš_Jopčík-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/TVOJ-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukáš_Jopčík-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/lukáš-jopčík-087064223)
